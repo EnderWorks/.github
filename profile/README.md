@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Open Designs. Open Tools. Total Freedom.</h1>
-</div>
-
 ## Welcome to EnderWorks!
 
 We believe great designs should be free.

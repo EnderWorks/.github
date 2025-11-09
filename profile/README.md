@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=40&pause=1000&color=CCA9DD&vCenter=true&width=450&height=80&lines=EnderWorks" alt="EnderWorks" />
+  <h1>Open Designs. Open Tools. Total Freedom.</h1>
 </div>
-
-<div align="center">
-  <h3>Open Designs. Open Tools. Total Freedom.</h3>
-</div>
-
----
 
 ## Welcome to EnderWorks!
 
